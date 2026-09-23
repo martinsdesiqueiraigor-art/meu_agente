@@ -1,0 +1,22 @@
+# Ambiente Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Variáveis de ambiente (CHAVE DA API — NUNCA vai pro GitHub)
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
